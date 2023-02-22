@@ -16,6 +16,7 @@ num2 = int(num2)
 
 #Step 3
 result = num1 / num2
+result = str(result)
 
 #Step 4
-print(result)
+print("The division of your two numbers "+result)
